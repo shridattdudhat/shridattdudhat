@@ -2,10 +2,10 @@
 
 <h3>Passionate Electronics Engineer with 6 Years of total Experience in the field of IoT, Electronics Hardware and Power Electronics.</h3>
 
-- 🔭 I’m currently working on Electronics Projects
-- 🌱 I’m currently learning Image Processing
+- 🔭 I’m currently working on Power Electronics & IoT
+- 🌱 I’m currently learning Python & Javascript
 - 🤔 I’m looking for help with [https://youtube.com/ElectronixHobbyist](ElectronixHobbyist)
-- 💬 Ask me about Electronics  Coding
+- 💬 Ask me anything about Electronics & Technology
 - 📫 How to reach me: [https://shridattdudhat.github.io/](https://shridattdudhat.github.io)
 - 😄 Pronouns: Shri
 - ⚡ Fun fact: I also work in the field of astrophysics 
