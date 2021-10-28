@@ -3,11 +3,11 @@
 <h3>Passionate Electronics Engineer with 6 Years of total Experience in the field of IoT, Electronics Hardware and Power Electronics.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridattdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="shridattdudhat" /> </p>
 
-- 🔭 I’m currently working on Power Electronics & IoT
-- 🌱 I’m currently learning Python & Javascript
-- 🤔 I’m looking for help with [https://youtube.com/ElectronixHobbyist](ElectronixHobbyist)
+- 🔭 Currently working on Power Electronics & IoT
+- 🌱 Learning Python & Javascript
+- 🤔 Looking for help with [https://youtube.com/ElectronixHobbyist](ElectronixHobbyist)
 - 💬 Ask me anything about Electronics, IoT & Technology [here](https://github.com/shridattdudhat/shridattdudhat/issues)
-- 📫 How to reach me: [https://shridattdudhat.github.io/](https://shridattdudhat.github.io)
+- 📫 Reach me: [https://shridattdudhat.github.io/](https://shridattdudhat.github.io)
 - 😄 Pronouns: Shri
 - ⚡ Fun fact: I also work in the field of astrophysics 
 
