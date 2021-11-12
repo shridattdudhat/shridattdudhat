@@ -14,7 +14,7 @@
 <!-- **Languages and Tools:**  
 <code><img height="20" src="https://user-images.githubusercontent.com/28555587/132675187-26c67904-7e74-40c8-a438-c6842c99b09f.jpg"></code> -->
 
-![Shridatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridattdudhat&count_private=true&show_icons=true&theme=gruvbox)
+<!-- ![Shridatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridattdudhat&count_private=true&show_icons=true&theme=gruvbox) -->
 
 ## Top Repositories
 
