@@ -1,4 +1,4 @@
-<h1 align="center">  Hi there 👋 , Its me, <a href="https://shridattdudhat.github.io"> Shridatt Dudhat </a> ! </h1>
+<h1 align="center">  Hi there 👋 , It's me <a href="https://shridattdudhat.github.io"> Shridatt Dudhat </a> ! </h1>
 
 <h3>Passionate Electronics Engineer with 6 Years of total Experience in the field of IoT, Electronics Hardware and Power Electronics.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridattdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="shridattdudhat" /> </p>
