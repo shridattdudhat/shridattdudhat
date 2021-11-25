@@ -16,12 +16,12 @@
 
 <!-- ![Shridatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridattdudhat&count_private=true&show_icons=true&theme=gruvbox) -->
 
-## Top Repositories
+<!-- ## Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Oxikit-Brainboard)](https://github.com/shridattdudhat/Oxikit-Brainboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=ADS124S08)](https://github.com/shridattdudhat/ADS124S08)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=uDrone)](https://github.com/shridattdudhat/uDrone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Raspberry-Pi-Compute-Module-4-Eagle-Footprint)](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Raspberry-Pi-Compute-Module-4-Eagle-Footprint)](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint) -->
 
 [![paypal.me/shridattdudhat](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/shridattdudhat) - You can make one-time donations via PayPal. I'll probably buy a lemon Soda 🍋🍺 !
 
