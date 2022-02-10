@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on Power Electronics & IoT
 - 🌱 Learning Python & Javascript
-- 🤔 Looking for help with [https://youtube.com/ElectronixHobbyist](ElectronixHobbyist)
+- 🤔 Looking for help with [https://youtube.com/ElectronixHobbyist](https://youtube.com/ElectronixHobbyist)
 - 💬 Ask me anything about Electronics, IoT & Technology [here](https://github.com/shridattdudhat/shridattdudhat/issues)
 - 📫 Reach me: [https://shridattdudhat.github.io/](https://shridattdudhat.github.io)
 - 😄 Pronouns: Shri
