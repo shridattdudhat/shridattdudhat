@@ -1,43 +1,54 @@
-<h1 align="center">  Hi there 👋 , It's me <a href="https://shridattdudhat.github.io"> Shridatt Dudhat </a> ! </h1>
+<h1 align="center"> Hi there 👋, It's me <a href="https://shridattdudhat.github.io"> Shridatt Dudhat </a>! </h1>
 
-<h3>Passionate Electronics Engineer with 10+ Years of total Experience in the field of IoT, Electronics Hardware and Power Electronics.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shridattdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="shridattdudhat" /> </p>
+<h3 align="center">Passionate Electronics Engineer with 10+ years of Experience in IoT, Electronics Hardware, and Power Electronics.</h3>
 
-- 🔭 Currently working on Power Electronics & IoT
-- 🌱 Learning Python & Javascript
-- 🤔 Looking for help with [https://youtube.com/ElectronixHobbyist](https://youtube.com/ElectronixHobbyist)
-- 💬 Ask me anything about Electronics, IoT & Technology [here](https://github.com/shridattdudhat/shridattdudhat/issues)
-- 📫 Reach me: [https://shridattdudhat.github.io/](https://shridattdudhat.github.io)
-- 😄 Pronouns: Shri
-- ⚡ Fun fact: I also work in the field of astrophysics 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shridattdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="shridattdudhat" />
+  <img src="https://img.shields.io/github/followers/shridattdudhat?style=social" alt="GitHub followers" />
+  <a href="https://www.paypal.me/shridattdudhat">
+    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="Donate via PayPal" />
+  </a>
+</p>
 
-<!-- **Languages and Tools:**  
-<code><img height="20" src="https://user-images.githubusercontent.com/28555587/132675187-26c67904-7e74-40c8-a438-c6842c99b09f.jpg"></code> -->
+- 🔭 Currently working on **Power Electronics & IoT**
+- 🌱 Learning **Python & JavaScript**
+- 🤔 Seeking help with [Electronix Hobbyist](https://youtube.com/ElectronixHobbyist)
+- 💬 Ask me anything about **Electronics, IoT & Technology** [here](https://github.com/shridattdudhat/shridattdudhat/issues)
+- 📫 Reach me at: [Website](https://shridattdudhat.github.io)
+- 😄 Pronouns: **Shri**
+- ⚡ Fun fact: I also work in **Astrophysics**
 
-<!-- ![Shridatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridattdudhat&count_private=true&show_icons=true&theme=gruvbox) -->
+---
 
-<!-- ## Top Repositories
+### 🛠️ **Languages and Tools**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Oxikit-Brainboard)](https://github.com/shridattdudhat/Oxikit-Brainboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=ADS124S08)](https://github.com/shridattdudhat/ADS124S08)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=uDrone)](https://github.com/shridattdudhat/uDrone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Raspberry-Pi-Compute-Module-4-Eagle-Footprint)](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint) -->
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![C](https://img.shields.io/badge/-C-333?logo=c)
+![C++](https://img.shields.io/badge/-C++-333?logo=c%2B%2B)
+![KiCAD](https://img.shields.io/badge/-KiCAD-333?logo=kicad)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333?logo=altium-designer)
+![OrCAD](https://img.shields.io/badge/-OrCAD-333)
+![Blender](https://img.shields.io/badge/-Blender-333?logo=blender)
+![OBS](https://img.shields.io/badge/-OBS-333?logo=obs-studio)
+![FreeCAD](https://img.shields.io/badge/-FreeCAD-333?logo=freecad)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-333?logo=autodesk)
+![LTSpice](https://img.shields.io/badge/-LTSpice-333)
+![Postman](https://img.shields.io/badge/-Postman-333?logo=postman)
+![Node-Red](https://img.shields.io/badge/-Node--Red-333?logo=node-red)
+![MQTT](https://img.shields.io/badge/-MQTT-333?logo=mqtt)
+![AWS](https://img.shields.io/badge/-AWS-333?logo=amazon-aws)
 
-[![paypal.me/shridattdudhat](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/shridattdudhat) - You can make one-time donations via PayPal. I'll probably buy a lemon Soda 🍋🍺 !
+---
 
+### 📌 **Top Repositories**
 
+[![Oxikit Brainboard](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Oxikit-Brainboard&theme=radical)](https://github.com/shridattdudhat/Oxikit-Brainboard)
+[![ADS124S08](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=ADS124S08&theme=radical)](https://github.com/shridattdudhat/ADS124S08)
+[![Airowl](https://github-readme-stats.vercel.app/api/pin/?username=oizom-iot&repo=airowl&theme=radical)](https://github.com/oizom-iot/airowl)
+[![Raspberry Pi Compute Module 4 Eagle Footprint](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Raspberry-Pi-Compute-Module-4-Eagle-Footprint&theme=radical)](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint)
 
-<!--
-**shridattdudhat/shridattdudhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 **Support My Work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you enjoy my projects, feel free to support me by buying me a Lemon Soda 🍋🍺 through [PayPal](https://www.paypal.me/shridattdudhat).
