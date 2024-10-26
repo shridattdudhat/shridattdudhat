@@ -15,9 +15,8 @@
 - 🤔 Seeking help with [Electronix Hobbyist](https://youtube.com/ElectronixHobbyist)
 - 💬 Ask me anything about **Electronics, IoT & Technology** [here](https://github.com/shridattdudhat/shridattdudhat/issues)
 - 📫 Reach me at: [Website](https://shridattdudhat.github.io)
+- 🌠 **Astronomy | Astrophysics** & **Rocket Science** Explorer
 - 😄 Pronouns: **Shri**
-- ⚡ Fun fact: I also work in **Astrophysics**
-
 ---
 
 ### 🛠️ **Languages and Tools**
