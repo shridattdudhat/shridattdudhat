@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there 👋, It's me <a href="https://shridattdudhat.github.io"> Shridatt Dudhat </a>! </h1>
 
-<h3 align="center">Passionate Electronics Engineer with 10+ years of Experience in IoT, Electronics Hardware, and Power Electronics.</h3>
+<h3 align="center">Electrical & Electronics Engineer | Building environmental sensing tech from transducer to product 🌱 | Astronomy & Rocket Science Explorer</h3>
+
+<p align="center"><b><i>From microvolts to light-years.</i></b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shridattdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="shridattdudhat" />
@@ -10,43 +12,79 @@
   </a>
 </p>
 
-- 🔭 Currently working on **Power Electronics & IoT**
-- 🌱 Learning **Python & JavaScript**
-- 🤔 Seeking help with [Electronix Hobbyist](https://youtube.com/ElectronixHobbyist)
-- 💬 Ask me anything about **Electronics, IoT & Technology** [here](https://github.com/shridattdudhat/shridattdudhat/issues)
-- 📫 Reach me at: [Website](https://shridattdudhat.github.io)
-- 🌠 **Astronomy | Astrophysics** & **Rocket Science** Explorer
+---
+
+- 🔬 Leading **R&D in deep-tech hardware & firmware** — from raw transducer to shipped product
+- 🌱 Building **core sensor technology** for air quality, acoustics, vibration & soil
+- ⚙️ Day-to-day: **analog front-ends, low-power embedded firmware, sensor characterisation & product design**
+- 🧠 Currently exploring **TinyML at the edge**, electrochemical sensing & open hardware
+- 🔧 Still a **hobbyist first** — breadboards, scope traces & weekend builds on [Electronix Hobbyist](https://youtube.com/ElectronixHobbyist)
+- 🔭 **Astronomy & astrophysics** enthusiast — chasing dark skies, optics & anything that leaves the atmosphere 🚀
+- 💬 Ask me about **sensor design, PCB development, embedded systems** — [open an issue](https://github.com/shridattdudhat/shridattdudhat/issues)
+- 📫 Reach me at: [Website](https://shridattdudhat.github.io/)
 - 😄 Pronouns: **Shri**
+
 ---
 
-### 🛠️ **Languages and Tools**
+### 🛠️ **Languages, Tools & Stack**
 
-![Python](https://img.shields.io/badge/-Python-333?logo=python)
+**Languages**
+
 ![C](https://img.shields.io/badge/-C-333?logo=c)
-![C++](https://img.shields.io/badge/-C++-333?logo=c%2B%2B)
-![KiCAD](https://img.shields.io/badge/-KiCAD-333?logo=kicad)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333?logo=altium-designer)
-![OrCAD](https://img.shields.io/badge/-OrCAD-333)
-![Blender](https://img.shields.io/badge/-Blender-333?logo=blender)
-![OBS](https://img.shields.io/badge/-OBS-333?logo=obs-studio)
-![FreeCAD](https://img.shields.io/badge/-FreeCAD-333?logo=freecad)
+![C++](https://img.shields.io/badge/-C++-333?logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
+
+**Embedded**
+
+![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-333?logo=espressif)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333?logo=freertos)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-333?logo=platformio)
+![Arduino](https://img.shields.io/badge/-Arduino-333?logo=arduino)
+![STM32](https://img.shields.io/badge/-STM32-333?logo=stmicroelectronics)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333?logo=raspberrypi)
+
+**Hardware & Design**
+
+![KiCad](https://img.shields.io/badge/-KiCad-333?logo=kicad)
+![Altium Designer](https://img.shields.io/badge/-Altium-333?logo=altiumdesigner)
+![LTspice](https://img.shields.io/badge/-LTspice-333)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-333?logo=autodesk)
-![LTSpice](https://img.shields.io/badge/-LTSpice-333)
-![Postman](https://img.shields.io/badge/-Postman-333?logo=postman)
-![Node-Red](https://img.shields.io/badge/-Node--Red-333?logo=node-red)
+![FreeCAD](https://img.shields.io/badge/-FreeCAD-333?logo=freecad)
+![Blender](https://img.shields.io/badge/-Blender-333?logo=blender)
+
+**Protocols & Connectivity**
+
 ![MQTT](https://img.shields.io/badge/-MQTT-333?logo=mqtt)
-![AWS](https://img.shields.io/badge/-AWS-333?logo=amazon-aws)
+![Modbus](https://img.shields.io/badge/-Modbus%20RTU-333)
+![SDI-12](https://img.shields.io/badge/-SDI--12-333)
+![LoRa](https://img.shields.io/badge/-LoRa-333)
+![BLE](https://img.shields.io/badge/-BLE-333?logo=bluetooth)
+
+**Data & Infra**
+
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-333?logo=influxdb)
+![Grafana](https://img.shields.io/badge/-Grafana-333?logo=grafana)
+![Node-RED](https://img.shields.io/badge/-Node--RED-333?logo=nodered)
+![AWS](https://img.shields.io/badge/-AWS-333?logo=amazonwebservices)
+![Git](https://img.shields.io/badge/-Git-333?logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?logo=linux)
 
 ---
 
-### 📌 **Top Repositories**
+### 📌 **Selected Work**
 
-[![Oxikit Brainboard](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Oxikit-Brainboard&theme=radical)](https://github.com/shridattdudhat/Oxikit-Brainboard)
-[![ADS124S08](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=ADS124S08&theme=radical)](https://github.com/shridattdudhat/ADS124S08)
-[![Airowl](https://github-readme-stats.vercel.app/api/pin/?username=oizom-iot&repo=airowl&theme=radical)](https://github.com/oizom-iot/airowl)
-[![Raspberry Pi Compute Module 4 Eagle Footprint](https://github-readme-stats.vercel.app/api/pin/?username=shridattdudhat&repo=Raspberry-Pi-Compute-Module-4-Eagle-Footprint&theme=radical)](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint)
+| Project | What it is |
+|---|---|
+| **[Oxikit Brainboard](https://github.com/shridattdudhat/Oxikit-Brainboard)** | Controller board for an open-source oxygen concentrator |
+| **[ADS124S08](https://github.com/shridattdudhat/ADS124S08)** | Driver for TI's 24-bit delta-sigma ADC — precision analog front-end work |
+| **[AirOwl](https://github.com/oizom-iot/airowl)** | Open-source ESP32 air quality monitor |
+| **[RPi CM4 Eagle Footprint](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint)** | Compute Module 4 footprint & symbol library for Eagle |
 
 ---
+
+<p align="center"><i>Still the kid who took the radio apart — just with better tools now.</i></p>
 
 ### 💡 **Support My Work**
 
